@@ -11,7 +11,7 @@
 PipePair = Class{}
 
 -- size of the gap between pipes
-local GAP_HEIGHT = 110
+local GAP_HEIGHT = math.random(100, 170)
 
 function PipePair:init(y)
     -- assign a new random value to gap height every pipepair
