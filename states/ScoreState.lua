@@ -34,13 +34,13 @@ function ScoreState:render()
     love.graphics.setFont(flappyFont)
     -- render the appropriate model according to the score
 
-    if self.score>=6 then
+    if self.score>=10 then
         love.graphics.printf('Great Job! Gold Medal earned', 0, 64, VIRTUAL_WIDTH, 'center')
         love.graphics.draw(self.gold, VIRTUAL_WIDTH-150, VIRTUAL_HEIGHT/2-60, 0, 0.05, 0.05)
-    elseif self.score>=4 then
+    elseif self.score>=7 then
         love.graphics.printf('Good Job! Silver Medal earned', 0, 64, VIRTUAL_WIDTH, 'center') 
         love.graphics.draw(self.silver, VIRTUAL_WIDTH-150, VIRTUAL_HEIGHT/2-60, 0, 0.05, 0.05)
-    elseif self.score>=2 then
+    elseif self.score>=4 then
         love.graphics.printf('Keep Going! Bronze Medal earned', 0, 64, VIRTUAL_WIDTH, 'center') 
 
         love.graphics.draw(self.bronze, VIRTUAL_WIDTH-150, VIRTUAL_HEIGHT/2-60, 0, 0.05, 0.05)
