@@ -157,7 +157,7 @@ function PlayState:update(dt)
         if brick.inPlay and ball:collides(brick) then
 
             if LockedBrick==false and brick.Locked==true  then
-                brick.Locked =false
+                brick.Locked =false   --this statement is necessary so that the lock check returns the right value
                 brick.inPlay = false
                 gSounds['brick-hit-1']:play()
                 self.score = self.score + 650
