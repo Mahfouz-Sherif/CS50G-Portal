@@ -32,7 +32,7 @@ end
 
 function Animation:update(dt)
     -- if not a looping animation and we've played at least once, exit
-    if self.pause or not self.looping and self.timesPlayed > 0 then
+    if not self.looping and self.timesPlayed > 0 then
         return
     end
 

@@ -24,7 +24,7 @@ PLAYER_WALK_SPEED = 60
 --
 -- projectile constants
 --
-PROJECTILE_START_SPEED = 130
+PROJECTILE_START_SPEED = 120
 GRAVITY = 0.15
 
 -- map constants

@@ -88,12 +88,12 @@ function GameObject:throw()
     end
 
     -- instantiate new projectile and add it to the room projectile list
-    local projectile = Projectile(self.x, self.y, self.carrier.direction,
+    local proj = Projectile(self.x, self.y, self.carrier.direction,
         PROJECTILE_DEFS[self.type])
     self.carrier.carrying = nil
     self.carrier = nil
     self.isActive = false
 
-    return projectile
+    return proj
 end
 
