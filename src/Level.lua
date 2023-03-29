@@ -207,11 +207,12 @@ function Level:update(dt)
            
             -- re-initialize level if we have no more aliens
             if #self.aliens == 0 and #self.launchMarker.alien ==0 then
-                self.launchMarker.alien = nil
-                self.launchMarker = AlienLaunchMarker(self.world)
                 gStateMachine:change('start')
             end
-
+            if #self.launchMarker.alien ==0 then
+                self.launchMarker.alien = nil
+                self.launchMarker = AlienLaunchMarker(self.world)
+            end
         end
         
     end
