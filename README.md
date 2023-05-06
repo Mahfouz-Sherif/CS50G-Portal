@@ -17,10 +17,10 @@ Other assets were downloaded from the Unity asset store
 Medieval pixel art asset FREE: https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131 
 used for door and torches
 
-Free 2D Mega Pack: https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430
-  used for dungeon room and frame
+Free 2D Mega Pack: https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430                                                                                      
+used for dungeon room and frame
 
-113 2D Item Icons: https://assetstore.unity.com/packages/2d/gui/icons/113-2d-item-icons-71325 
-  used for gems and player shade
+113 2D Item Icons: https://assetstore.unity.com/packages/2d/gui/icons/113-2d-item-icons-71325                                                                              
+used for gems and player shade
 
 Author: Mahfouz Sherif
