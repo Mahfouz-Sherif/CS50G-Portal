@@ -23,5 +23,5 @@ used for dungeon room and frame
 113 2D Item Icons: https://assetstore.unity.com/packages/2d/gui/icons/113-2d-item-icons-71325                                                                              
 used for gems and player shade
 
-Author: Mahfouz Sherif
+Author: Mahfouz Sherif                                                                                                                                                    
 I hope you enjoy:heart_on_fire:
