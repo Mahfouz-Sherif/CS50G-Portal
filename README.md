@@ -1,8 +1,9 @@
 # The Game
-This is an RPG based on Final Fantasy. The player builds a party by choosing between a male or female character to each of the vocations (warrior, ranger, healer, and mage). There are five regions, the center that is the town where the player is safe. In that region, there are some NPCs who tell something to the player. The north region contains the weakest creatures to hunt. The south region contains a little stronger creatures to hunt than the norths. The east region contains stronger creatures to hunt than the souths. Finally, the west region contains the strongest creatures to hunt and the final boss.
+This game is a type of timed scavenger hunt. You are trapped in an almost dark dungeon, collect all the gems to open the door and escape before the lights vanish or you will never escape.
 
-The goal is to hunt creatures from the weakest to the strongest to level up each of the party characters and go to defeat to the final boss to end the game. If all of the characters of the party die, then the game is over and the player will have to start again from the beginning.
-
+The game revolves around random level generation. Each level has a random number of gems which the player needs to collect in order to escape **The Shadows of Despair**.
+The Gems spawn at random positions, have different colors and the number of gems is also randomized, there are also four torches that light the dungeon slightly but the lights weakens every passing second until they vanish completely.
+There are fitting UI elements to show the number of gems the player needs to collect, the player's score
 Credits
 In this game some of the images and sounds from previous assignments were used.
 
