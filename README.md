@@ -2,8 +2,8 @@
 This game is a type of timed scavenger hunt. You are trapped in a mostly dark dungeon, collect all the gems to open the door and escape before the lights vanish or you will never escape.
 
 The game revolves around random level generation. 
-Each level has a random number of gems which the player needs to collect in order to escape **The Shadows of Despair**.
-The Gems spawn at random positions, have different colors and the number of gems is also randomized, there are also four torches that light the dungeon slightly but the lights weakens every passing second until they vanish completely.
+Each level has a number of gems which the player needs to collect in order to escape **The Shadows of Despair**.
+The Gems spawn at random positions, have different colors and the number of gems is also randomized, there are also four torches that light the dungeon slightly but the lights weaken every passing second until they vanish completely.
 Each gem the player collects increases the score and the same goes for every level you clear.
 
 There are fitting UI elements to show the number of gems the player needs to collect, the player's score and the Level Clear, Game Pause and Game Over Screen.
