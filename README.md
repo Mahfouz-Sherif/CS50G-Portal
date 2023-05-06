@@ -1,4 +1,4 @@
-# The Game
+# The Shadows Of Despair
 This game is a type of timed scavenger hunt. You are trapped in an mostly dark dungeon, collect all the gems to open the door and escape before the lights vanish or you will never escape.
 
 The game revolves around random level generation. 
