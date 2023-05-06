@@ -14,8 +14,7 @@ There is also a Visual effect that I made using Unity's Particle System that pla
 Some of the images and sounds from previous assignments were used in this game like the sound effects, background music and player sprites.
 
 Other assets were downloaded from the Unity asset store
-Medieval pixel art asset FREE: https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131 
-
+Medieval pixel art asset FREE: https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131                                                  
 used for door and torches
 
 Free 2D Mega Pack: https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430                                                                                      
