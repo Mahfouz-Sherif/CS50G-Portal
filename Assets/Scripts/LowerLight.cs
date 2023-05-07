@@ -29,7 +29,7 @@ public class LowerLight : MonoBehaviour
         {
             //myLight.intensity = Mathf.PingPong(Time.time, 8);
             //Lights decrease faster every level
-            myLight.intensity -= myLight.intensity * (Time.fixedDeltaTime * PlayerMovement.levelCounter / 50);
+            myLight.intensity -= myLight.intensity * (Time.fixedDeltaTime * (PlayerMovement.levelCounter / 50));
             if(myLight.intensity <= 0.01) //not <= 0 because of error
             {
                 //You lose if the torches' lights completely vanish
